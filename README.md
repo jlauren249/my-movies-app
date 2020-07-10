@@ -1,3 +1,5 @@
+This application uses a web based API from The Movie DB and allows a user to click on movie icons of popular movies to learn more information about that movie.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
